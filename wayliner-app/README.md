@@ -33,7 +33,7 @@ npm run preview   # serves the production build on http://localhost:4173
 
 ## Features
 
-- **Deal grid** — ~34 seeded deals, each with merchant, category, title, description,
+- **Deal grid** — 32 seeded deals, each with merchant, category, title, description,
   discount (with numeric `discountValue` / `discountType`), price/original price,
   distance, rating, expiry, city, and an emoji badge.
 - **Categories** — Fuel/Gas, EV Charging, Parking, Food & Rest Stops,
